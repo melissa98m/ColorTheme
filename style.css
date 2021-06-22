@@ -1,0 +1,31 @@
+.themeContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.theme {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+#dark {
+    background: black;
+}
+#salmon {
+    background:salmon ;
+}
+#yellow {
+    background: yellow;
+}
+.darkTheme {
+    background : black;
+    color : white;
+}
+.salmonTheme {
+    background: salmon;
+    color: white;
+}
+.yellowTheme {
+    background: yellow;
+    color : white;
+}
